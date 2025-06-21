@@ -2,10 +2,10 @@
 // This map links the department names to their specific NotebookLM IDs.
 // IMPORTANT: Replace the placeholder IDs below with your actual, unique NotebookLM IDs.
 const NOTEBOOK_MAP = {
-  "Human Resources": "afbb2022-4b54-4dc6-b2b6-67444f64784e",
-  "Acquisition": "65a12678-0da6-41fb-8aa4-4816ffd01cd6",
-  "Disposition": "126c6198-9059-49f5-b9ff-f74d79e88203", // <-- Replace with your actual LAM Notebook ID
-  "Tech": "fb7d8bc8-890e-473f-a9cb-14fd2213091e"  // <-- Replace with your actual Tech Notebook ID
+  "Human Resources": "afbb2022-4b54-4dc6-b2b6-674",
+  "Acquisition": "65a12678-0da6-41fb-8aa4-4816",
+  "Disposition": "126c6198-9059-49f5-b9ff-f74", // <-- Replace with your actual LAM Notebook ID
+  "Tech": "fb7d8bc8-890e-473f-a9cb-14fd2"  // <-- Replace with your actual Tech Notebook ID
 };
 
 /**
